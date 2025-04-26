@@ -34,7 +34,7 @@ Hexagonal Architecture, proposed by Alistair Cockburn, organizes code to separat
 
 <p align="center">
   <kbd>
-    <img src="https://user-images.githubusercontent.com/13108166/32132278-192f63c2-bbec-11e7-9c33-2431bc227da1.png" width="400" alt="Hexagonal Architecture">
+    <img src="https://herbertograca.files.wordpress.com/2018/11/100-explicit-architecture-svg.png" width="500" alt="Hexagonal Architecture">
   </kbd>
 </p>
 
@@ -61,7 +61,7 @@ Key DDD Concepts implemented:
 
 <p align="center">
   <kbd>
-    <img src="https://user-images.githubusercontent.com/4838076/33976098-a18b0dbc-e0be-11e7-918f-a737c63f64df.png" width="400" alt="Domain-Driven Design">
+    <img src="https://miro.medium.com/v2/resize:fit:1400/1*5AQ3iggJs4x9QlkFvNh3dA.png" width="500" alt="Domain-Driven Design">
   </kbd>
 </p>
 
@@ -81,7 +81,7 @@ The architectural pattern consists of concentric layers:
 
 <p align="center">
   <kbd>
-    <img src="https://user-images.githubusercontent.com/5422266/210892412-11a12364-13b4-4261-8678-3c36200bf2e4.png" width="400" alt="Clean Architecture">
+    <img src="https://miro.medium.com/v2/resize:fit:1400/0*UoLJEi_0q8gXh72l.png" width="500" alt="Clean Architecture">
   </kbd>
 </p>
 
