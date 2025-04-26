@@ -24,7 +24,7 @@ This is purely educational code and is not intended for production use.
 
 This project combines three powerful architectural patterns:
 
-### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/hexagon.svg" width="20" height="20"> Hexagonal Architecture (Ports & Adapters)
+### 🔶 Hexagonal Architecture (Ports & Adapters)
 
 Hexagonal Architecture, proposed by Alistair Cockburn, organizes code to separate the business logic from external concerns by:
 
@@ -34,7 +34,7 @@ Hexagonal Architecture, proposed by Alistair Cockburn, organizes code to separat
 
 <p align="center">
   <kbd>
-    <img src="https://miro.medium.com/max/1400/1*LF3qzk0dgk9kaBjxJZasFQ.png" width="400" alt="Hexagonal Architecture">
+    <img src="https://user-images.githubusercontent.com/13108166/32132278-192f63c2-bbec-11e7-9c33-2431bc227da1.png" width="400" alt="Hexagonal Architecture">
   </kbd>
 </p>
 
@@ -43,7 +43,7 @@ Benefits:
 - ✅ Application can be driven by users, programs, tests, or batch scripts equally
 - ✅ Enables true isolation of business rules from infrastructure concerns
 
-### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/diagram-project.svg" width="20" height="20"> Domain-Driven Design (DDD)
+### 🧩 Domain-Driven Design (DDD)
 
 Domain-Driven Design, introduced by Eric Evans, is an approach to software development that:
 
@@ -61,11 +61,11 @@ Key DDD Concepts implemented:
 
 <p align="center">
   <kbd>
-    <img src="https://miro.medium.com/max/1400/1*0R0r7sP7npq7APFjlHdUxQ.png" width="400" alt="Domain-Driven Design">
+    <img src="https://user-images.githubusercontent.com/4838076/33976098-a18b0dbc-e0be-11e7-918f-a737c63f64df.png" width="400" alt="Domain-Driven Design">
   </kbd>
 </p>
 
-### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/layer-group.svg" width="20" height="20"> Clean Architecture
+### 🧅 Clean Architecture
 
 Clean Architecture, proposed by Robert C. Martin (Uncle Bob), emphasizes:
 
@@ -81,7 +81,7 @@ The architectural pattern consists of concentric layers:
 
 <p align="center">
   <kbd>
-    <img src="https://blog.cleancoder.com/uncle-bob/images/2012-08-13-the-clean-architecture/CleanArchitecture.jpg" width="400" alt="Clean Architecture">
+    <img src="https://user-images.githubusercontent.com/5422266/210892412-11a12364-13b4-4261-8678-3c36200bf2e4.png" width="400" alt="Clean Architecture">
   </kbd>
 </p>
 
@@ -205,6 +205,7 @@ This project uses a comprehensive testing approach:
 
 - **Integration Tests**: Test how components work together
   - Flow between use cases and repositories
+  - End-to-end business operations
 
 ## ⚠️ Limitations
 
